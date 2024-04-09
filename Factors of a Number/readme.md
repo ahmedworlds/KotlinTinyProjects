@@ -1,0 +1,6 @@
+<b>Output</b>
+
+<pre>
+Factors of 60 are: 1 2 3 4 5 6 10 12 15 20 30 60
+</pre>
+
